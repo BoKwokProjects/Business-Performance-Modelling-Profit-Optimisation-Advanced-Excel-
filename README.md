@@ -40,7 +40,7 @@ A retail business experienced sales growth, but profit did not increase proporti
 By optimizing discount strategies and focusing on high-value customers, the company could reasonably improve overall profit margin by **2–3 percentage points** and reduce losses in unprofitable product categories.
 
 ## Files
-- [Download the Excel Dashboard](files/Business Performance Modelling & Profit Optimisation (Advanced Excel).xlsx)
+- [Download the Excel Dashboard] (https://github.com/BoKwokProjects/Business-Performance-Modelling-Profit-Optimisation-Advanced-Excel-/blob/main/files/Business%20Performance%20Modelling%20%26%20Profit%20Optimisation%20(Advanced%20Excel).xlsx))
 
 ## Author
 Created by Bo Kwok
